@@ -1,4 +1,4 @@
-# LAB-6 Online examination system
+# LAB-6 Online Examination System
 # NAME : ADITYAH M S
 # REGISTER NUMBER : 212223220002
  
